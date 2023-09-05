@@ -1,0 +1,86 @@
+
+
+
+/* project skill language rotate section  */
+.project-skill{
+    width:50px;
+    position: absolute;
+   
+    
+}
+#cirskill{
+    left: 45%;
+   
+    top: 50%;
+    position: absolute;
+}
+#html{
+    animation: html 7s ease-in infinite;
+    animation-direction: alternate;
+    top: 30%;
+    left: 10%;
+}
+@keyframes html {
+
+    100%{
+        top: 50%;
+        left: 50%;
+    }
+    
+}
+
+#css{
+    animation: html 7s ease-in infinite;
+    animation-direction: alternate;
+    top: 20%;
+    left: 50%;
+}
+
+#js{
+    animation: html 7s ease-in infinite;
+    animation-direction: alternate;
+    top: 30%;
+    left: 85%;
+}
+
+#express{
+    animation: html 7s ease-in infinite;
+    animation-direction: alternate;
+    top: 50%;
+    left: 10%;
+}
+
+#nextjs{
+    animation: html 7s ease-in infinite;
+    animation-direction: alternate;
+    top: 50%;
+    left: 85%;
+}
+
+
+#node{
+    animation: html 7s ease-in infinite;
+    animation-direction: alternate;
+    top: 70%;
+    left: 10%;
+}
+
+
+
+
+
+#mongo{
+    animation: html 7s ease-in infinite;
+    animation-direction: alternate;
+    top: 70%;
+    left: 50%;
+
+}
+
+
+#redux{
+    animation: html 7s ease-in infinite;
+    animation-direction: alternate;
+    top: 70%;
+    left: 85%;
+}
